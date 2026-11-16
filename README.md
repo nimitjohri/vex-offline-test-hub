@@ -2,3 +2,5 @@
 
 Tiny VEX hub for testing offline sync. Only `.json` files are packed into the hub archive; this README is not.
 Edit `README.md` only to test the "content unchanged" path. Edit `pkg0.openvex.json` to test a forced re-sync.
+
+README-only edit for the D6 test (no hash change expected).
