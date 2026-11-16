@@ -1,0 +1,13 @@
+{
+  "name": "vex-offline-test-hub",
+  "description": "Offline VEX sync test",
+  "versions": [
+    {
+      "spec_version": "0.1",
+      "locations": [
+        { "url": "https://github.com/nimitjohri/vex-offline-test-hub" }
+      ],
+      "update_interval": "1h"
+    }
+  ]
+}

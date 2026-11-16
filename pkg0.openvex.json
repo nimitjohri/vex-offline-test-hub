@@ -1,0 +1,16 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://example.test/vex/hub-pkg0",
+  "author": "vex-offline-test",
+  "timestamp": "2026-11-17T00:00:00Z",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": { "name": "CVE-2025-68972" },
+      "products": [ { "@id": "pkg:rpm/redhat/gnupg2" } ],
+      "status": "not_affected",
+      "justification": "vulnerable_code_not_present",
+      "impact_statement": "offline hub test, initial"
+    }
+  ]
+}
